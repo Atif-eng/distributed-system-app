@@ -1,6 +1,5 @@
-streamlit
-pandas
-numpy
-dask
-distributed
-xgboost
+streamlit>=1.30.0
+pandas>=2.0.0
+numpy>=1.24.0
+dask[complete]>=2024.1.0
+xgboost>=2.0.0
